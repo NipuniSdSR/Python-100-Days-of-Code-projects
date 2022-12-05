@@ -1,4 +1,4 @@
-# Project: Secret auction programSe
+# Project: Secret auction program
 
 ## Level:  Beginner
 
