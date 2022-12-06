@@ -5,7 +5,7 @@
 
 ### GUI with Tkinter, function arguments,*args, **kargs
 
-<img width="529" alt="Screenshot 2022-12-06 at 5 00 30 PM" src="https://user-images.githubusercontent.com/81766272/206033856-8945d955-5d8a-4a6b-b224-cf8b3efd2626.png">
+<img width="525" alt="Screenshot 2022-12-06 at 5 00 30 PM" src="https://user-images.githubusercontent.com/81766272/206034673-d3d9a958-babf-4227-9f4b-f67352fc5cc5.png">
 
 <img width="521" alt="Screenshot 2022-12-06 at 5 01 38 PM" src="https://user-images.githubusercontent.com/81766272/206034420-f5373293-7e90-48f4-a918-595e6b331e40.png">
 
