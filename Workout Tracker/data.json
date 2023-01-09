@@ -1,0 +1,27 @@
+{
+    "exercises": 
+        [
+            {"tag_id": 317,
+             "user_input": "ran", 
+             "duration_min": 20, 
+             "met": 9.8, 
+             "nf_calories": 143.73, 
+             "photo": {"highres": "https://d2xdmhkmkbyw75.cloudfront.net/exercise/317_highres.jpg", "thumb": "https://d2xdmhkmkbyw75.cloudfront.net/exercise/317_thumb.jpg", "is_user_uploaded": False}, 
+             "compendium_code": 12050, 
+             "name": "running", 
+             "description": "None",
+             "benefits": "None"
+             }, 
+            {"tag_id": 765, 
+             "user_input": "yoga", 
+             "duration_min": 30, 
+             "met": 3.3, 
+             "nf_calories": 72.6, 
+             "photo": {"highres": "https://d2xdmhkmkbyw75.cloudfront.net/exercise/765_highres.jpg", "thumb": "https://d2xdmhkmkbyw75.cloudfront.net/exercise/765_thumb.jpg", "is_user_uploaded": False}, 
+             "compendium_code": 2180, 
+             "name": "yoga", 
+             "description": "None",
+             "benefits": "None"
+             }
+        ]
+}
